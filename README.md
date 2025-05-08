@@ -12,6 +12,7 @@ Shop Healthy asks:
 
 
 
+![datalifecycle](https://github.com/user-attachments/assets/0ec35c0a-d9d1-40d8-bcff-af3c7258ccd6)
 
 
 

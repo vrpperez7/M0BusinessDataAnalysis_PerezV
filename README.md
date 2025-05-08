@@ -34,8 +34,10 @@ Number of obese people, years, and years awarded are discrete numeric data. <br/
 
 On Excel, I created line and bar graphs and pivot tables to find trends between the obesity numbers and Shop Healthy data. I used Python to verify the correctness of the maximum, minimum, and totals within NYC.gov and Shop Right's data. I looked at the Obesity vs Year to find if obesity was trending upwards or downwards and I found that obesity numbers fluctuate throughout the years as shown on the maximum and minimum numbers being on a variety of years. I also looked at Year Awarded vs Year to compare years to see if obesity trending downwards related to an uptick in stores participating in Shop Right's Challenge. I was aware that some years, such as 2020, see higher amounts of stores awarded for Shop Healthy's Retail Challenge during the years of lower obesity numbers, but it is not consistent enough for me to claim a correlation. 
 
+<img width="854" alt="Screenshot 2025-05-08 at 10 54 24 AM" src="https://github.com/user-attachments/assets/40bec78b-132a-4851-aa1e-e4b9fc438b60" />
 
-<img width="506" alt="Screenshot 2025-05-08 at 10 12 05 AM" src="https://github.com/user-attachments/assets/3137b1d5-02fe-4f20-9323-8fe39d89c1f7" />
+
+<img width="811" alt="Screenshot 2025-05-08 at 10 54 37 AM" src="https://github.com/user-attachments/assets/9b6db7ce-dd9d-45f1-9389-deb5b3ab9790" />
 
 
 To answer the business question, it is inconclusive if Shop Right's Retail Challenge lowers the amount of obese people due to a variety of factors that can contribute to obesity rates, and not enough data proving a correlation. <br/>
